@@ -1,87 +1,20 @@
-<!-- <h1 align="center">Heyy there , I am Nandhitha sree</h1>
+# Heyy there, I'm Nandhitha sree 👋 
 
-###
-
-<h2 align="left">Hello there!!! I'm Nandhitha sree currently pursuing Bachelor of Engineering Computer Science at Garden City University</h2>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Languages Known</h1>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-</div>
-
-<br>
-
-###
-
-<h2 align="center">Connect with me 👇</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/e-v-nandhitha-sree-ba562430b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nandhithasreee/Nandhithasreee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nandhithasreee/Nandhithasreee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nandhithasreee/Nandhithasreee/output/pacman-contribution-graph.svg">
-</picture>
-
-### -->
-
-
-
-
-
-# Hi there, I'm Mohit Kumar 👋 
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Tech%20Architect-orange?style=flat-square&logo=architecture" />
   <img src="https://img.shields.io/badge/-Voice%20Over%20Artist-red?style=flat-square&logo=google-podcasts" />
   <img src="https://img.shields.io/badge/Location-India-green?style=flat-square" />
 </p>
 
-### 👨‍💻 About Me
-I am a passionate **Full Stack Web Developer** and **Tech Architect** from India. I thrive on building scalable web solutions and sharing that knowledge with the world. I believe in being a *jack of all trades—and a master of some.*
+### 👨‍💻 About Me -->
 
-- 🚀 **Core Expertise:** Full Stack MERN (MongoDB, Express, React, Node) & MEAN (Angular)
-- 🧠 **Other Tools:** Django, WordPress, and Elementor
-- 🎥 **Content Creator:** I teach Web Development at [**@MohitDecodes**](https://youtube.com/@MohitDecodes)
-- 🎙 **Creative Side:** Professional Freelance Voice Over Artist
+I am a passionate **Full Stack Web Developer** and **Tech Architect** from India. I thrive on building scalable web solutions and sharing that knowledge with the world. I believe in being a *jack of all trades—and a master of some.*
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-**Frontend & Backend**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
