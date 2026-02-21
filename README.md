@@ -1,5 +1,6 @@
 <h1 align="center"> 𝑯𝒆𝒚𝒚 𝒕𝒉𝒆𝒓𝒆, 𝑰'𝒎 𝑵𝒂𝒏𝒅𝒉𝒊𝒕𝒉𝒂 𝑺𝒓𝒆𝒆 ;) </h1>
 
+---
 
 <h3 align="center"style="red"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 👧</h3>
 
@@ -33,8 +34,8 @@
 <h3 align="center"> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 📧</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/e-v-nandhitha-sree-ba562430b/ " target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="nandhithasree4@gmail.com "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
